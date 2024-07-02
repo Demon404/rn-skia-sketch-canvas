@@ -146,6 +146,6 @@
     ]
   },
   "dependencies": {
-    "@shopify/react-native-skia": "https://github.com/Shopify/react-native-skia/releases/download/v0.1.107-alpha/shopify-react-native-skia-0.1.107.tgz"
+    "@shopify/react-native-skia": "https://github.com/Shopify/react-native-skia/archive/refs/tags/v1.3.7.tar.gz"
   }
 }
